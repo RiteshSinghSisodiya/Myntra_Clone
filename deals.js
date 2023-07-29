@@ -428,5 +428,5 @@ trendingArr.map(function (el) {
 
 //LANDING PAGE SCRIPT
 document.getElementById('landingPage').addEventListener('click', function(){
-    window.location.href = "index.html"
+    window.location.href = "../Myntra_clone/index.html"
 })
